@@ -1,5 +1,6 @@
-<h1 align="center">Hi 👋, I'm Rui Zhao (Terry)</h1>
-<h3 align="center">A CS undergraduate in Tsinghua Univsersity, interested in AI and cool stuffs on Linux</h3>
+<div align="left">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&duration=4000&pause=1000&color=3366CC&center=false&vCenter=true&width=435&lines=Hi,+I'm+Rui+Zhao+(Terry);CS+Undergrad+@+Tsinghua;Interested+in+AI+%26+Linux;Welcome+to+my+profile!" alt="Typing SVG" />
+</div>
 
 - 🌱 I’m currently learning **World Models, Vision Models, Computer Organization & Systems**
 
