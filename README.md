@@ -29,15 +29,15 @@
 </picture>
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats-yituorens-projects.vercel.app/api?username=yituoren&show_icons=true&locale=en&count_private=true&theme=dark">
-  <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats-yituorens-projects.vercel.app/api?username=yituoren&show_icons=true&locale=en&count_private=true">
-  <img align="left" src="https://github-readme-stats-yituorens-projects.vercel.app/api?username=yituoren&show_icons=true&locale=en&count_private=true" alt="yituoren" />
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats-yituoren.vercel.app/api?username=yituoren&show_icons=true&locale=en&count_private=true&theme=dark">
+  <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats-yituoren.vercel.app/api?username=yituoren&show_icons=true&locale=en&count_private=true">
+  <img align="left" src="https://github-readme-stats-yituoren.vercel.app/api?username=yituoren&show_icons=true&locale=en&count_private=true" alt="yituoren" />
 </picture>
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats-yituorens-projects.vercel.app/api/top-langs?username=yituoren&show_icons=true&locale=en&layout=compact&count_private=true&langs_count=10&include_forks=true&theme=dark">
-  <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats-yituorens-projects.vercel.app/api/top-langs?username=yituoren&show_icons=true&locale=en&layout=compact&count_private=true&langs_count=10&include_forks=true">
-  <img align="center" src="https://github-readme-stats-yituorens-projects.vercel.app/api/top-langs?username=yituoren&show_icons=true&locale=en&layout=compact&count_private=true&langs_count=10&include_forks=true" alt="yituoren" />
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats-yituoren.vercel.app/api/top-langs?username=yituoren&show_icons=true&locale=en&layout=compact&count_private=true&langs_count=10&include_forks=true&theme=dark">
+  <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats-yituoren.vercel.app/api/top-langs?username=yituoren&show_icons=true&locale=en&layout=compact&count_private=true&langs_count=10&include_forks=true">
+  <img align="center" src="https://github-readme-stats-yituoren.vercel.app/api/top-langs?username=yituoren&show_icons=true&locale=en&layout=compact&count_private=true&langs_count=10&include_forks=true" alt="yituoren" />
 </picture>
 
 <picture align="left">
