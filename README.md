@@ -40,9 +40,11 @@
   <img align="center" src="https://github-readme-stats-yituoren.vercel.app/api/top-langs?username=yituoren&show_icons=true&locale=en&layout=compact&count_private=true&langs_count=10&include_forks=true" alt="yituoren" />
 </picture>
 
+<!--
 <picture align="left">
   <source media="(prefers-color-scheme: dark)" srcset="https://github.com/yituoren/yituoren/raw/output/github-contribution-grid-snake-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://github.com/yituoren/yituoren/raw/output/github-contribution-grid-snake.svg">
   <img alt="github contribution grid snake animation" src="https://github.com/yituoren/yituoren/raw/output/github-contribution-grid-snake-dark.svg">
 </picture>
+-->
 
