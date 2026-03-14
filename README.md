@@ -2,7 +2,7 @@
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&duration=4000&pause=1000&color=3366CC&center=false&vCenter=true&width=435&lines=Hi,+I'm+Rui+Zhao+(Terry);CS+Undergrad+@+Tsinghua;Interested+in+AI+%26+Linux;Welcome+to+my+profile!" alt="Typing SVG" />
 </div>
 
-- 🌱 I’m currently learning **World Models, Vision Models, Computer Organization & Systems**
+- 🌱 I’m currently learning **World Models, Computer Vision, Robotics & Computer Systems**
 
 - 💬 Ask me about **RL, LLMs & Linux**
 
@@ -10,7 +10,7 @@
 
 - 📄 Know about my experiences [yituoren.github.io](http://yituoren.github.io)
 
-- ⚡ Fun fact **I am looking for summer students program & CS PhD**
+- ⚡ Fun fact **I am looking for a CS PhD**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -47,4 +47,3 @@
   <img alt="github contribution grid snake animation" src="https://github.com/yituoren/yituoren/raw/output/github-contribution-grid-snake-dark.svg">
 </picture>
 -->
-
