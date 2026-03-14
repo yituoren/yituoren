@@ -31,3 +31,9 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api?username=yituoren&show_icons=true&locale=en" alt="yituoren" /></p>
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=yituoren&show_icons=true&locale=en&layout=compact" alt="yituoren" /></p>
 
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github.com/yituoren/yituoren/raw/output/profile-night-rainbow.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://github.com/yituoren/yituoren/raw/output/profile-green-animate.svg">
+  <img alt="3D Contribution Graph" src="https://github.com/yituoren/yituoren/raw/output/profile-green-animate.svg">
+</picture>
+
