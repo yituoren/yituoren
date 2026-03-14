@@ -5,6 +5,9 @@ on:
     # 每天 UTC 时间 18:00 (北京时间凌晨 2:00) 自动运行一次
     - cron: "0 18 * * *"
   workflow_dispatch: # 允许手动触发运行
+  push:
+    branches:
+      - main
 
 jobs:
   build:
