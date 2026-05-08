@@ -14,17 +14,13 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-  <a href="https://x.com/ZhaoRui76682822" target="_blank"><img src="https://img.shields.io/badge/-Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter" /></a>
-  <a href="https://kaggle.com/yituoren" target="_blank"><img src="https://img.shields.io/badge/-Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white" alt="Kaggle" /></a>
-  <a href="https://instagram.com/yituoren0329" target="_blank"><img src="https://img.shields.io/badge/-Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" /></a>
+  <a href="https://x.com/ZhaoRui76682822" target="_blank"><img src="https://skillicons.dev/icons?i=twitter&theme=light" alt="Twitter" /></a>
+  <a href="https://instagram.com/yituoren0329" target="_blank"><img src="https://skillicons.dev/icons?i=instagram&theme=light" alt="Instagram" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left">
-  <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=bash,c,cpp,css,django,docker,git,ai,js,linux,mysql,opencv,ps,py,pytorch,react,rust,sqlite,tensorflow,ts,unreal&perline=11" alt="My Skills" /></a>
-</p>
-<p align="left">
-  <a href="https://pandas.pydata.org/" target="_blank"><img src="https://img.shields.io/badge/-Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" alt="Pandas" /></a>
+  <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=bash,c,cpp,css,django,docker,git,ai,js,linux,mysql,opencv,ps,py,pytorch,react,rust,sqlite,tensorflow,ts,unreal&theme=light&perline=11" alt="My Skills" /></a>
 </p>
 
 <picture>
